@@ -66,3 +66,8 @@ Key points:
 
 ## Securely managing multiple AWS accounts without going crazy	
 * Multi-accounts is becoming more and more common and there is a lack of documentation on how to do it securely, using IAM. This article will provide a template for centralized management of multiple AWS accounts, without resorting to external SSO.
+
+## server-free pubsub (and nearly code-free)
+* apigateway + built in AWS services can get you going with little code and zero servers, total pay as you go. 
+* does it scale horizontally? guess what it doesn't matter you don't have to scale it
+* using bleeding edge technologies removes some operational burden because nobody else understands more about what you're doing than you do
