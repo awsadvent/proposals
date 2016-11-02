@@ -71,3 +71,10 @@ Key points:
 * apigateway + built in AWS services can get you going with little code and zero servers, total pay as you go. 
 * does it scale horizontally? guess what it doesn't matter you don't have to scale it
 * using bleeding edge technologies removes some operational burden because nobody else understands more about what you're doing than you do
+
+## Alexa, Manage My Gift Lists
+This post will cover building a gift list app for Alexa/Echo using Lambda. 
+
+* Get started building with Lambda
+* Understand how Lambda fits in with Alexa
+* Build an app that will be useful for everyone (and maybe encourage the holdouts to buy one)
