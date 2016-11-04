@@ -78,3 +78,14 @@ This post will cover building a gift list app for Alexa/Echo using Lambda.
 * Get started building with Lambda
 * Understand how Lambda fits in with Alexa
 * Build an app that will be useful for everyone (and maybe encourage the holdouts to buy one)
+
+## Network Security Monitoring with FlowLogs
+* What are FlowLogs and what information do they include? 
+* How to collect and analyze FlowLogs? 
+* Example analysis and use-cases
+
+## CI doesn't mean "cost increase"
+* setting EBS volumes to remove on terminate with Cloudformation/Boto, 
+* scanning EBS volume estate for dead volumes, 
+* pausing instances that aren't in use
+
