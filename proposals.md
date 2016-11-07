@@ -89,3 +89,11 @@ This post will cover building a gift list app for Alexa/Echo using Lambda.
 * scanning EBS volume estate for dead volumes, 
 * pausing instances that aren't in use
 
+## Four ways AWS Lambda makes me happy
+* time savings, 
+* cost savings and 
+* bug elimination
+
+## Deploy your AWS infrastructure continously
+* Use hosted Git (CodeCommit) to version control CloudFormation templates. 
+* Use CodePipeline to create or update the CloudFormation stack when the template changes in Git.
