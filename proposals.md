@@ -1,3 +1,5 @@
+# Accepted Proposals
+
 ## Making AWS instances automagically register with Chef	
 * Getting instances to automatically register & deregister themselves in Chef, specifically in autoscaling groups
 
@@ -88,6 +90,8 @@ This post will cover building a gift list app for Alexa/Echo using Lambda.
 * setting EBS volumes to remove on terminate with Cloudformation/Boto, 
 * scanning EBS volume estate for dead volumes, 
 * pausing instances that aren't in use
+
+# Up for Review Proposals
 
 ## Four ways AWS Lambda makes me happy
 * time savings, 
